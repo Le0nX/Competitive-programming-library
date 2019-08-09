@@ -39,28 +39,28 @@ Practice Style: learning new topics + solving general problems.
     
 ### Timeline
 
-| Day           | Category         | Topic  | General Problems |
-| :-----------: |:-------------:| :---------:|:--------------:|
-| 1 | Getting Started | [CP Environment](outlines/getting_started/cp_environment.md) | - |
-| 2-3 | Getting Started | [Just Adhoc!](outlines/getting_started/adhoc.md) | - |
-| 4 | Data Structures | [Linear Data Structures](outlines/data_structures/linear_ds.md) | - |
-| 5 | Data Structures | [Non-Linear Data Structures](outlines/data_structures/nonlinear_ds.md)  | - |
-| 6 | Data Structures | [Sortings](outlines/data_structures/sortings.md) | - |
-| 7-9 | Solving Techniques | [Brute Force](outlines/solving_techniques/brute_force.md) | - |
-| 10 | Solving Techniques | [Greedy](outlines/solving_techniques/greedy.md) | [gpset-1](outlines/general/pupils_gpsets.md#problem-set-1) |
-| 11 | Solving Techniques | [Sliding Window](outlines/solving_techniques/sliding_window.md) | [gpset-2](outlines/general/pupils_gpsets.md#problem-set-2) |
-| 12 | Solving Techniques | [Binary Search](outlines/solving_techniques/binary_search.md) | [gpset-3](outlines/general/pupils_gpsets.md#problem-set-3) |
-| 13 | Graphs | [Structure and Traversal](outlines/graphs/graph_traversal.md) | [gpset-4](outlines/general/pupils_gpsets.md#problem-set-4) |
-| 14 - 17 | Graphs | [Basic Algorithms](outlines/graphs/basic_algos.md) | [gpset-5](outlines/general/pupils_gpsets.md#problem-set-5), [gpset-6](outlines/general/pupils_gpsets.md#problem-set-6), [gpset-7](outlines/general/pupils_gpsets.md#problem-set-7), [gpset-8](outlines/general/pupils_gpsets.md#problem-set-8) |
-| 18 | Graphs | [Minimum Spanning Tree](outlines/graphs/mst.md) | [gpset-9](outlines/general/pupils_gpsets.md#problem-set-9) |
-| 19 | Graphs | [Single-Source Shortest Path](outlines/graphs/sssp.md) | [gpset-10](outlines/general/pupils_gpsets.md#problem-set-10) |
-| 20 | Math | | [gpset-11](outlines/general/pupils_gpsets.md#problem-set-11) |
-| 21 | Math | | [gpset-12](outlines/general/pupils_gpsets.md#problem-set-12) |
-| 22 | Math | | [gpset-13](outlines/general/pupils_gpsets.md#problem-set-13) |
-| 23 | Geometry | | [gpset-14](outlines/general/pupils_gpsets.md#problem-set-14) |
-| 24 | Geometry | | [gpset-15](outlines/general/pupils_gpsets.md#problem-set-15) |
-| 25 | Geometry | | [gpset-16](outlines/general/pupils_gpsets.md#problem-set-16) |
-| 26 | Strings | | [gpset-17](outlines/general/pupils_gpsets.md#problem-set-17) |
+| Day           | Category         | Topic  | General Problems | Progress |
+| :-----------: |:-------------:| :---------:|:--------------:|:--------------:|
+| 1 | Getting Started | [CP Environment](outlines/getting_started/cp_environment.md) | - | - |
+| 2-3 | Getting Started | [Just Adhoc!](outlines/getting_started/adhoc.md) | - | - |
+| 4 | Data Structures | [Linear Data Structures](outlines/data_structures/linear_ds.md) | - | - |
+| 5 | Data Structures | [Non-Linear Data Structures](outlines/data_structures/nonlinear_ds.md)  | - | - |
+| 6 | Data Structures | [Sortings](outlines/data_structures/sortings.md) | - | - |
+| 7-9 | Solving Techniques | [Brute Force](outlines/solving_techniques/brute_force.md) | - | - |
+| 10 | Solving Techniques | [Greedy](outlines/solving_techniques/greedy.md) | [gpset-1](outlines/general/pupils_gpsets.md#problem-set-1) | - |
+| 11 | Solving Techniques | [Sliding Window](outlines/solving_techniques/sliding_window.md) | [gpset-2](outlines/general/pupils_gpsets.md#problem-set-2) | - |
+| 12 | Solving Techniques | [Binary Search](outlines/solving_techniques/binary_search.md) | [gpset-3](outlines/general/pupils_gpsets.md#problem-set-3) | - |
+| 13 | Graphs | [Structure and Traversal](outlines/graphs/graph_traversal.md) | [gpset-4](outlines/general/pupils_gpsets.md#problem-set-4) | - |
+| 14 - 17 | Graphs | [Basic Algorithms](outlines/graphs/basic_algos.md) | [gpset-5](outlines/general/pupils_gpsets.md#problem-set-5), [gpset-6](outlines/general/pupils_gpsets.md#problem-set-6), [gpset-7](outlines/general/pupils_gpsets.md#problem-set-7), [gpset-8](outlines/general/pupils_gpsets.md#problem-set-8) | - |
+| 18 | Graphs | [Minimum Spanning Tree](outlines/graphs/mst.md) | [gpset-9](outlines/general/pupils_gpsets.md#problem-set-9) | - |
+| 19 | Graphs | [Single-Source Shortest Path](outlines/graphs/sssp.md) | [gpset-10](outlines/general/pupils_gpsets.md#problem-set-10) | - |
+| 20 | Math | | [gpset-11](outlines/general/pupils_gpsets.md#problem-set-11) | - |
+| 21 | Math | | [gpset-12](outlines/general/pupils_gpsets.md#problem-set-12) | - |
+| 22 | Math | | [gpset-13](outlines/general/pupils_gpsets.md#problem-set-13) | - |
+| 23 | Geometry | | [gpset-14](outlines/general/pupils_gpsets.md#problem-set-14) | - |
+| 24 | Geometry | | [gpset-15](outlines/general/pupils_gpsets.md#problem-set-15) | - |
+| 25 | Geometry | | [gpset-16](outlines/general/pupils_gpsets.md#problem-set-16) | - |
+| 26 | Strings | | [gpset-17](outlines/general/pupils_gpsets.md#problem-set-17) | - |
 
 [Old Plan]
 

@@ -19,21 +19,21 @@
 
 ### Problem Set #1 
 
-| Problem        | Tags          | Notes  | Solution |
-|:------------- |:-------------|:-----|:--------|
-| [Hulk](http://codeforces.com/problemset/problem/705/A)     |  -  | - | [link](http://codeforces.com/contest/705/submission/21388508) |
-| [Pangram](http://codeforces.com/problemset/problem/520/A)      | - | - |  [link](http://codeforces.com/contest/520/submission/15445288) |
-| [Wet Shark and Odd and Even](http://codeforces.com/problemset/problem/621/A) |   -    |   `int` overflow  | [link](http://codeforces.com/contest/621/submission/15737294) |
+| Problem        | Tags          | Notes  | Solution | Progress |
+|:------------- |:-------------|:-----|:--------|--------|
+| [Hulk](http://codeforces.com/problemset/problem/705/A)     |  -  | - | [link](http://codeforces.com/contest/705/submission/21388508) |  v  |
+| [Pangram](http://codeforces.com/problemset/problem/520/A)      | - | - |  [link](http://codeforces.com/contest/520/submission/15445288) |  -  |
+| [Wet Shark and Odd and Even](http://codeforces.com/problemset/problem/621/A) |   -    |   `int` overflow  | [link](http://codeforces.com/contest/621/submission/15737294) |  -  |
 | [Sub-prime](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2726) | - | simulation | [link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v116/SubPrimeUVa11679.java) |
-| [Burger Time](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2708) | - | linear solution | [link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v116/BurgerTime_UVa11661.java) |
+| [Burger Time](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2708) | - | linear solution | [link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v116/BurgerTime_UVa11661.java) |  -  |
 
 ### Problem Set #2
 
-| Problem        | Tags          | Notes  | Solution |
-|:------------- |:-------------|:-----|:--------|
-| [Next Round](http://codeforces.com/contest/158/problem/A) |       |     | [link](http://codeforces.com/contest/158/submission/9439064) |
-| [Buy a Shovel](http://codeforces.com/contest/732/problem/A) |       |     | [link](http://codeforces.com/contest/732/submission/21533265) |
-| [Beautiful Matrix](http://codeforces.com/contest/263/problem/A) |       |     | [link](http://codeforces.com/contest/263/submission/12431609) |
-| [Is it Rated?](http://codeforces.com/contest/807/problem/A) |       |     | [link](http://codeforces.com/contest/807/submission/26927293) |
-| [Beautiful Year](http://codeforces.com/problemset/problem/271/A) |       |     | [link](http://codeforces.com/contest/271/submission/14757983) |
+| Problem        | Tags          | Notes  | Solution | Progress |
+|:------------- |:-------------|:-----|:--------|--------|
+| [Next Round](http://codeforces.com/contest/158/problem/A) |       |     | [link](http://codeforces.com/contest/158/submission/9439064) |  -  |
+| [Buy a Shovel](http://codeforces.com/contest/732/problem/A) |       |     | [link](http://codeforces.com/contest/732/submission/21533265) |  -  |
+| [Beautiful Matrix](http://codeforces.com/contest/263/problem/A) |       |     | [link](http://codeforces.com/contest/263/submission/12431609) |  -  |
+| [Is it Rated?](http://codeforces.com/contest/807/problem/A) |       |     | [link](http://codeforces.com/contest/807/submission/26927293) |  -  |
+| [Beautiful Year](http://codeforces.com/problemset/problem/271/A) |       |     | [link](http://codeforces.com/contest/271/submission/14757983) |  -  |
 
